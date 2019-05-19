@@ -1,0 +1,7 @@
+/* Awful CSS Pseudocode
+
+Step 1: Create a class for the whole calculator object.
+Step 2: Create an input type for text, give it whatever size or other properties fit your liking.
+Step 3: Inside the calculator class, create a class for the rows (.row)
+Step 4: And the inside THAT, create a class for the buttons.
+Step 5: Change the button sizing, padding etc. to your liking, same for the calculator and add a display: block property to .row */
